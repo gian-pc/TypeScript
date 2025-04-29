@@ -37,3 +37,5 @@ TypeScript esta en modo observador, esto hace que cualquier cambio que haga en a
 tsc --watch
 tsc -w
 ```
+## 2. Tipos de datos Básicos
+- Inferir tipos y modo estricto
