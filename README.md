@@ -26,3 +26,7 @@ Creamos el archivo **tsconfig.json** y lo que más vamos acabar haciendo con est
 tsc --init
 ```
 
+Borramos app.js y volvemos a crearlo para que adquiera la configuración de **tsconfig.json**
+```bash
+tsc
+```
