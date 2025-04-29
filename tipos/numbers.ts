@@ -9,4 +9,8 @@
     } else {
         console.log('Nos salvamos');
     }
+
+    avengers = Number('55A'); // NaN
+    console.log({avengers});
+
 })();
