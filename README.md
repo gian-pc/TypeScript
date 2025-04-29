@@ -30,3 +30,10 @@ Borramos app.js y volvemos a crearlo para que adquiera la configuración de **ts
 ```bash
 tsc
 ```
+
+TypeScript esta en modo observador, esto hace que cualquier cambio que haga en app.ts se vea reflejado en app.js
+
+```bash
+tsc --watch
+tsc -w
+```
