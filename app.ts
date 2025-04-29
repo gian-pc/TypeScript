@@ -1,9 +1,9 @@
 
+// Función anónima autoinvocada
+(() => {
+    const a: number = 10;
 
-const a: number = 10;
-let b: string;
+    console.log(a);
+})();
 
-function sayHello(msg: string) {
-    console.log(msg + ' ' + 'Gian');
-}
 

@@ -1,6 +1,6 @@
 "use strict";
-const a = 10;
-let b;
-function sayHello(msg) {
-    console.log(msg + ' ' + 'Gian');
-}
+// Función anónima autoinvocada
+(() => {
+    const a = 10;
+    console.log(a);
+})();
