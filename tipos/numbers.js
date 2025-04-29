@@ -1,9 +1,9 @@
 "use strict";
 (() => {
-    let avengers;
+    let avengers = 10;
     console.log(avengers);
     const villians = 20;
-    if (avengers < villians) { // Error: avengers is not defined
+    if (avengers < villians) {
         console.log('Estamos en problemas');
     }
     else {
