@@ -18,3 +18,11 @@ Compilamos el archivo de typeScript a javaScript
 tsc app
 ```
 
+Creamos el archivo **tsconfig.json** y lo que más vamos acabar haciendo con este archivos es:
+- Modificar el objetivo
+- Modificar los archivos de salida
+- Configurar que tan estrictos queremos que sea
+```bash
+tsc --init
+```
+
