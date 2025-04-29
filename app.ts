@@ -1,10 +1,9 @@
 
 
 const a: number = 10;
-let b;
+let b: string;
 
-b = 3.1416;
-b = {};
-b = [];
-b = true;
+function sayHello(msg: string) {
+    console.log(msg + ' ' + 'Gian');
+}
 
