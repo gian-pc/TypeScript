@@ -40,3 +40,4 @@ tsc -w
 ## 2. Tipos de datos Básicos
 - Inferir tipos y modo estricto
 - Booleanos
+- Numbers
