@@ -45,3 +45,4 @@ tsc -w
 - Any
 - Arrays
 - Tuples
+- Enum
