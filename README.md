@@ -46,3 +46,4 @@ tsc -w
 - Arrays
 - Tuples
 - Enum
+- Void
