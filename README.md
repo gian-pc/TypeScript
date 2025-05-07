@@ -41,3 +41,4 @@ tsc -w
 - Inferir tipos y modo estricto
 - Booleanos
 - Numbers
+- Strings
