@@ -42,3 +42,4 @@ tsc -w
 - Booleanos
 - Numbers
 - Strings
+- Any
