@@ -44,3 +44,4 @@ tsc -w
 - Strings
 - Any
 - Arrays
+- Tuples
