@@ -43,3 +43,4 @@ tsc -w
 - Numbers
 - Strings
 - Any
+- Arrays
