@@ -53,3 +53,4 @@ tsc -w
 - Funciones básicas
 - Parámetros obligatorios de las funciones
 - Parámetros opcionales de las funciones
+- Parámetros por defecto
