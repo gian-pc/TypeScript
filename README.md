@@ -48,3 +48,6 @@ tsc -w
 - Enum
 - Void
 - Never
+
+## 3. Funciones y Objetos
+- Funciones básicas
