@@ -55,3 +55,4 @@ tsc -w
 - Parámetros opcionales de las funciones
 - Parámetros por defecto
 - Parámetros REST
+- Tipo Función
