@@ -51,3 +51,4 @@ tsc -w
 
 ## 3. Funciones y Objetos
 - Funciones básicas
+- Parámetros obligatorios de las funciones
