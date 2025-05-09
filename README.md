@@ -62,3 +62,4 @@ tsc -w
 - Objetos con tipos específicos
 - Métodos dentro de los objetos
 - Tipos personalizados
+- Multiples tipos permitidos
