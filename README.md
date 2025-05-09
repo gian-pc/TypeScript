@@ -59,3 +59,4 @@ tsc -w
 
 ## 4. Objetos y tipos personalizados en TypeScript
 - Objetos básicos
+- Objetos con tipos específicos

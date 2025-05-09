@@ -7,7 +7,8 @@
     };
     flash = {
         name: 'Clark Kent',
-        age: 60,
+        //age: 60,
         powers: ['Súper fuerza']
     };
+    console.log(flash);
 })();
