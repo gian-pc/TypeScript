@@ -63,3 +63,7 @@ tsc -w
 - Métodos dentro de los objetos
 - Tipos personalizados
 - Multiples tipos permitidos
+
+## 5. Caracteristicas de ES6
+- Desestructuración de Objetos
+

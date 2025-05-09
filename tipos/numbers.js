@@ -9,6 +9,6 @@
     else {
         console.log('Nos salvamos');
     }
-    avengers = Number('55A'); // NaN
+    avengers = Number('55A');
     console.log({ avengers });
 })();

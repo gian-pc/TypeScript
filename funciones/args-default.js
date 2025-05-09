@@ -9,5 +9,5 @@
         }
     };
     const name = fullName("Gian", "Paucar", true);
-    console.log({ name }); // GIAN PAUCAR
+    console.log({ name });
 })();

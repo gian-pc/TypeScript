@@ -6,7 +6,6 @@
     const callSuperman = () => {
         return;
     };
-    // void es un tipo de dato que no retorna nada
     const a = callBatman();
-    console.log(a); // undefined
+    console.log(a);
 })();

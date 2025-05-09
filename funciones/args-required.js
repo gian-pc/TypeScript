@@ -4,5 +4,5 @@
         return `${firstName} ${lastName}`;
     };
     const name = fullName("Gian", "Paucar");
-    console.log(name); // Gian Paucar
+    console.log(name);
 })();
