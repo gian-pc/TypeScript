@@ -68,3 +68,4 @@ tsc -w
 - Desestructuración de Objetos
 - Desestructuración de Arreglos
 - Ciclo For of
+- Clases en ES6
