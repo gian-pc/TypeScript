@@ -19,10 +19,11 @@ var __rest = (this && this.__rest) || function (s, e) {
         poder: 1500.1256
     };
     const { poder, vision } = avengers;
-    console.log(poder.toFixed(2), vision.toUpperCase());
     const printAvenger = (_a) => {
         var { ironman } = _a, resto = __rest(_a, ["ironman"]);
         console.log(ironman, resto);
     };
-    printAvenger(avengers);
+    const avengerArr = ['Thor', true, 1500.1256];
+    const [thor, isAvenger, power] = avengerArr;
+    console.log(thor, isAvenger, power);
 })();

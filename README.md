@@ -66,4 +66,5 @@ tsc -w
 
 ## 5. Caracteristicas de ES6
 - Desestructuración de Objetos
+- Desestructuración de Arreglos
 

@@ -17,13 +17,19 @@
     }
 
     const { poder, vision } = avengers;
-    console.log(poder.toFixed(2), vision.toUpperCase());
+    //console.log(poder.toFixed(2), vision.toUpperCase());
 
     const printAvenger = ( {ironman, ...resto}: Avengers ) =>{
         console.log(ironman, resto);
     }
 
-    printAvenger(avengers);
+    //printAvenger(avengers);
+
+
+    const avengerArr: [string, boolean, number] = ['Thor', true, 1500.1256];
+    const [thor, isAvenger, power] = avengerArr;
+    console.log(thor, isAvenger, power);
+
 
 
 })();
