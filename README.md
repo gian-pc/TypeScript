@@ -56,3 +56,6 @@ tsc -w
 - Parámetros por defecto
 - Parámetros REST
 - Tipo Función
+
+## 4. Objetos y tipos personalizados en TypeScript
+- Objetos básicos
