@@ -69,3 +69,6 @@ tsc -w
 - Desestructuración de Arreglos
 - Ciclo For of
 - Clases en ES6
+
+## 6. Clases en TypeScript
+- Clase básica en TypeScript
