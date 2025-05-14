@@ -72,3 +72,4 @@ tsc -w
 
 ## 6. Clases en TypeScript
 - Clase básica en TypeScript
+- Forma corta de asignar propiedades
